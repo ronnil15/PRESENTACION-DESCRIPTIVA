@@ -1,0 +1,140 @@
+
+*{
+  margin: 0px;
+  padding: 0px;
+  background-color: black;
+}
+body{
+  width: 70%;
+  background-color: black;
+  margin: 0 auto;
+}
+
+h1{
+font-size: 20px;
+color: gold;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 800;
+margin: 10px;
+padding: 5px;
+text-align: center;
+
+}
+
+h2 {
+  color: yellow;
+  text-align: center;
+}
+
+img{
+width: 25%;
+margin: auto;
+border-radius: 70%;
+border: 3.5px solid skyblue;
+display: flex;
+align-items: center;
+}
+
+
+p{
+font-size: 20px;
+color: burlywood;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 800;
+margin: 10px;
+padding: 5px;
+text-align: center;
+
+}
+
+.parrafo1{
+font-size: 20px;
+color: yellow;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 800;
+margin: 10px;
+padding: 5px;
+text-align: center;
+
+}
+
+.parrafo2,ol{
+font-size: 20px;
+color: goldenrod;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 800;
+margin: 10px;
+padding: 5px;
+text-align: center;
+
+}
+
+.parrafo3{
+font-size: 20px;
+color: greenyellow;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 800;
+margin: 10px;
+padding: 5px;
+text-align: center;
+
+}
+
+h4 {
+  color: red;
+  font-size: 23px;
+  text-align: center;
+}
+
+
+
+
+.Facebook{
+  background-color: #3b5998;
+  border: none;
+  color: wheat;
+  padding: 15px;
+  font-size: 25px;
+  display: inline-block;
+  text-align: center;
+  align-items: center;
+}
+
+.Instagram{
+ background: linear-gradient(135deg, #8a3ab9, #ff0000);
+
+  border: noe;
+  color: wheat;
+  padding: 15px;
+  font-size: 25px;
+  display: inline-block;
+  text-align: center;
+  align-items: center;
+}
+
+
+
+
+.Youtube{
+  background-color: rgb(246, 16, 16);
+  border: none;
+  color: white;
+  padding: 15px;
+  font-size: 25px;
+  display: inline-block;
+  text-align: center;
+  align-items: center;
+}
+
+.boton{
+  background-color: black;
+    text-align: center;
+    margin: 25px;
+}
+
+footer{
+  font-size: 25px;
+  color: white;
+  text-align: center;
+}
+
